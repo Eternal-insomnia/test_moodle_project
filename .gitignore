@@ -1,2 +1,12 @@
+# Moodle
 moodle/
+
+# Test folder
 server/test
+
+# Composer 
+vendor/
+composer*.*
+
+# ENV
+.env
