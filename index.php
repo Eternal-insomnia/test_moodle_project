@@ -1,5 +1,6 @@
 <?php
 
-    echo("Hello, world!");
+    phpinfo();
 
-?>
+    // moodleuser, root
+    // admin, Password*1
